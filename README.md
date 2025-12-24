@@ -12,6 +12,8 @@ $$\mathbf{\dot{x}} = A\mathbf{x}$$
 
 The behavior of the trajectories is determined by the **trace** and **determinant** of the matrix $A$.
 
+There is a colab notebook on the first Weyl Algebra, talking about odes from a rings/modules perspective. I did not proofread it before uploading; just be aware there may be errors.
+
 ## Features
 * **Phase Portraits** Plots vector fields and steamlines.
 * * **Interactive Visualization:** Uses `ipywidgets` to change matrix parameters on the fly.
